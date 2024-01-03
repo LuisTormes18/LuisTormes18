@@ -2,7 +2,7 @@
 I am Luis Tormes, a Frontend developer with experience in Nextjs, TypeScript, and Tailwindcss. I design responsive and visually appealing websites. My passion for programming drives me to continually improve. I have overcome many difficulties, including a terrible lung disease, but I never gave up and achieved my goal of being a developer.
 
 
-###🌐 Socials:
+### 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/luistormes_dev) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/luis-tormes) 
 
 ### 💻 Tech Stack:
