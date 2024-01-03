@@ -1,4 +1,4 @@
-## 💫 About Me:
+### 💫 About Me:
 I am Luis Tormes, a Frontend developer with experience in Nextjs, TypeScript, and Tailwindcss. I design responsive and visually appealing websites. My passion for programming drives me to continually improve. I have overcome many difficulties, including a terrible lung disease, but I never gave up and achieved my goal of being a developer.
 
 
